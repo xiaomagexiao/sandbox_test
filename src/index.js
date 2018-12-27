@@ -8,10 +8,10 @@ import reducer from "./reducers";
 import "todomvc-app-css/index.css";
 
 const store = createStore(reducer);
-// sdfds
+// sdfd
 
 render(
-  <Provider store={store2}>
+  <Provider store={stor22e2}>
     <App />
   </Provider>,
   document.getElementById("root")
