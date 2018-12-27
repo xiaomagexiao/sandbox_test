@@ -11,7 +11,7 @@ const store = createStore(reducer);
 // sdfds
 
 render(
-  <Provider store={store}>
+  <Provider store={store2}>
     <App />
   </Provider>,
   document.getElementById("root")
